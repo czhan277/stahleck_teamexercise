@@ -10,7 +10,7 @@
 [Cheng's pull request for Team Hambacher](https://github.com/grantkelsay/Hambacher_IceBreaker/pull/12)
 
 ### David
-(PR link here)
+[David's pull request for Team Loewenburg] https://github.com/wtmcwhor/LoewenburgStoryTime/pull/4
 
 ### Jose
 [Jose's pull request for Team Hohezonllern] https://github.com/Ksalcant/TeamExercise_IceBraker/pull/2
