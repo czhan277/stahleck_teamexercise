@@ -13,7 +13,7 @@
 (PR link here)
 
 ### Jose
-(PR link here)
+[Jose's pull request for Team Hohezonllern] https://github.com/Ksalcant/TeamExercise_IceBraker/pull/2
 
 ### Randy
 [Randy's pull request for Team Moritzburg](https://github.com/amansharma96/StoryTimeMortizburg/pull/9)
