@@ -7,7 +7,7 @@
 (PR link here)
 
 ### Cheng
-(PR link here)
+[Cheng's pull request for Team Hambacher](https://github.com/grantkelsay/Hambacher_IceBreaker/pull/12)
 
 ### David
 (PR link here)
