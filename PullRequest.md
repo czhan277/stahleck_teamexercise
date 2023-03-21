@@ -1,7 +1,7 @@
 # Pull Requests
 
 ### Akhil
-(PR link here)
+[Akhil's pull request for Team NordKirchen](https://github.com/mharmon7/NordKirchenIceBreaker/pull/1)
 
 ### Amine
 [Amine's pull request for Team Heidelberger](https://github.com/kldosh/heidelbergerTeamExercise/pull/2)
